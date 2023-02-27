@@ -12,5 +12,8 @@ Di setiap marketplace memiliki tipe pelanggan dan produk unggulan yang berbeda s
 - Mencari tipe pembayaran yang disukai pelanggan, serta mencari tipe pembayaran produk-produk dengan penjualan tertinggi dan terendah
 - Mencari Peak Time transaksi online terjadi
 
+## Dataset yang digunakan
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Data Preprocessing dan Analysis
 https://medium.com/@halodebyhr/exploratory-analysis-of-olist-ecommerce-dataset-5a8e5cac9e07 
